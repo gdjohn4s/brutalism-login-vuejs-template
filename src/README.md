@@ -1,6 +1,4 @@
-# chat-app-front
-
-This template should help get you started developing with Vue 3 in Vite.
+# Brutalism Login page template
 
 ## Recommended IDE Setup
 
