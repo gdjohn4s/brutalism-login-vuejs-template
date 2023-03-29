@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@jontec8](https://twitter.com/jontec8) - email@example.com
+Twitter - [@jontec8](https://twitter.com/jontec8)
 
 Project Link: [https://github.com/gdjohn4s/brutalism-login-vuejs-template](https://github.com/gdjohn4s/brutalism-login-vuejs-template)
 
